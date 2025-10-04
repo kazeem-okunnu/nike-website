@@ -16,3 +16,5 @@ A responsive eCommerce landing page inspired by Nike’s website design. Built t
 
 ## 💡 What I Learned
 I learned how to create modern UI designs using HTML/CSS and bring them to life with JavaScript animations.
+## 🔗 Live Demo
+[View Project](https://https://nike-website-eight-ruby.vercel.app/)
